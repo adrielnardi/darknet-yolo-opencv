@@ -67,6 +67,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+"""entre na pasta pelo terminal e execute o comando python .\main.py"""
 
 
 
